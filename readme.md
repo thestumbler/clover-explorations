@@ -2,7 +2,11 @@
 
 ![](z8000-3d.png)
 
-Just playing around, seeing if there was any geometric regularity which
+Ref: Scott Baker's Z8000 Clover Computer
+* [Project site](https://www.smbaker.com/scotts-z8000-cp-m-8000-clover-computer)
+* [GitHub repo](https://github.com/sbelectronics/z8000)
+
+Just playing around, seeing if there is any geometric regularity which
 could be exploited to make this layout easier. It looks pretty, but I'm
 not sure it would perform any better than the original. 
 
