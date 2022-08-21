@@ -16,7 +16,7 @@ put on the perimeter of the outer layers.
 
 * Done in Kicad v6. 
   - Schematics printed out as [PDF](z8000-sch.pdf) / [PNG](z8000-sch.png)
-  - Layout as two PNG files ( [TOP](z8000-top.png) / [BOT](z8000-bot.png)
+  - Layout as two PNG files, [TOP](z8000-top.png) / [BOT](z8000-bot.png)
 
 ![Schematics](z8000-sch.png)
 
